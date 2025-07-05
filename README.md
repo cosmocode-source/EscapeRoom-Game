@@ -1,5 +1,6 @@
 # EscapeRoom-Game
 A text based adventure game for a first year mini c project. 
+Before anyhing else please download all the file additional file before playing the game and keep it in same folder for emmersive experience . (the text and pdf files are not needed) 
 # EscapeRoom-Game
 A text based adventure game for a first year mini c project. 
 # Info on code details
